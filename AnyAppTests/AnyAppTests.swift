@@ -15,6 +15,6 @@ class AnyAppTests: XCTestCase {
     }
 
     func testExample() throws {
-        XCTAssertEqual(10*2, 20, "should be 20")
+        XCTAssertEqual(10*2, 0, "should be 20")
     }
 }
